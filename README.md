@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)](https://KSHITIJTHAKRE.io)
 <h1 align="center">Hi 👋, I'm Kshitij Thakre</h1>
-<h3 align="center">Final Year Student Pursuing Computer Engineering</h3>
+<h3 align="center">Passionate computer engineer fluent in web technologies, adept at developing creative software solutions with a keen eye for detail.</h3>
 <img align="right" alt="coding" width="350" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijthakre&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijthakre" /> </p>
